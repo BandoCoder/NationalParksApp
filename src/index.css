@@ -1,0 +1,6 @@
+.parkSearch {
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    flex: column;
+}
